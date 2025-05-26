@@ -16,7 +16,7 @@ A Python tool that transforms your monthly spending data into an insightful pie 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Kirankumarvel/monthly-expenses.git
+   git clone https://github.com/Kirankumarvel/Monthly-Expenses-Pie-Chart.git
    cd monthly-expenses
    ```
 
